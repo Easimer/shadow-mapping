@@ -1,0 +1,7 @@
+#ifndef SHADOW_MAPPING_IRENDERER_H
+#define SHADOW_MAPPING_IRENDERER_H
+
+class IRenderer {
+};
+
+#endif /* SHADOW_MAPPING_IRENDERER_H */
